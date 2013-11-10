@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["chuckjhardy@gmail.com"]
   spec.description   = %q{Simple, immutable model for github webhooks.}
   spec.summary       = %q{Simple, immutable model for github webhooks.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ChuckJHardy/GitWebHookModel"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
