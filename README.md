@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ChuckJHardy/GitWebHookModel.png?branch=master)](https://travis-ci.org/ChuckJHardy/GitWebHookModel)
+[![Build Status](https://travis-ci.org/ChuckJHardy/GitWebHookModel.png?branch=master)](https://travis-ci.org/ChuckJHardy/GitWebHookModel) [![Coverage Status](https://coveralls.io/repos/ChuckJHardy/GitWebHookModel/badge.png)](https://coveralls.io/r/ChuckJHardy/GitWebHookModel) [![Code Climate](https://codeclimate.com/github/ChuckJHardy/GitWebHookModel.png)](https://codeclimate.com/github/ChuckJHardy/GitWebHookModel) [![Gem Version](https://badge.fury.io/rb/git_web_hook_model.png)](http://badge.fury.io/rb/git_web_hook_model)
 
 # GitWebHookModel
 
