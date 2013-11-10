@@ -71,14 +71,14 @@
     "name":"otb_www_app",
     "url":"https://github.company.com/organisation/otb_www_app",
     "description":"Frontend Application",
-    "homepage":"www.onthebeach.co.uk",
+    "homepage":"www.example.co.uk",
     "watchers":1,
     "stargazers":1,
     "forks":0,
     "fork":false,
     "size":54414,
     "owner":{
-      "name":"onthebeach",
+      "name":"company",
       "email":null
     },
     "private":false,
@@ -90,7 +90,7 @@
     "created_at":1295946304,
     "pushed_at":1383924957,
     "master_branch":"master",
-    "organization":"onthebeach"
+    "organization":"organisation"
   },
   "pusher":{
     "name":"charles-hardy",
