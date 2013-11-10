@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = GitWebHookModel::VERSION
   spec.authors       = ["Chuck J hardy"]
   spec.email         = ["chuckjhardy@gmail.com"]
-  spec.description   = %q{Turn a Github WebHook into an object model}
-  spec.summary       = %q{Turn a Github WebHook into an object model}
+  spec.description   = %q{Simple, immutable model for github webhooks.}
+  spec.summary       = %q{Simple, immutable model for github webhooks.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
