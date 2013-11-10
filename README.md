@@ -8,7 +8,7 @@ Simple, immutable model for github webhooks.
 
 Add this line to your application's Gemfile:
 
-    gem 'git_web_hook_model', '~> 0.0.2', group :development
+    gem 'git_web_hook_model', '~> 0.0.3', group :development
 
 And then execute:
 
