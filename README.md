@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ChuckJHardy/GitWebHookModel.png?branch=master)](https://travis-ci.org/ChuckJHardy/GitWebHookModel)
+
 # GitWebHookModel
 
 Simple, immutable model for github webhooks.
