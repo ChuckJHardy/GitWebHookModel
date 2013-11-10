@@ -13,8 +13,8 @@ class GitWebHookModel
       field :removed
       field :modified
 
-      has_one :author
-      has_one :committer
+      has_one :author, type: Owner
+      has_one :committer, type: Owner
     end
   end
 end

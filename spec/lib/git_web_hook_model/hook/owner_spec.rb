@@ -24,4 +24,12 @@ describe GitWebHookModel::Hook::Owner do
       expect(subject).to eq(None)
     end
   end
+
+  describe '#username' do
+    subject { instance.username }
+
+    it 'returns none' do
+      expect(subject).to eq(None)
+    end
+  end
 end

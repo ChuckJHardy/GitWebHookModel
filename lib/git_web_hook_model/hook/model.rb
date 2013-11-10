@@ -14,6 +14,7 @@ class GitWebHookModel
       has_many :commits
 
       has_one :head_commit, type: Commit
+      has_one :pusher, type: Owner
       has_one :repository
     end
   end

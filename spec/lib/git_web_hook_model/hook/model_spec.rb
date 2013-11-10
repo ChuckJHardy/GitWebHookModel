@@ -88,6 +88,14 @@ describe GitWebHookModel::Hook::Model do
     end
   end
 
+  describe '#pusher' do
+    subject { instance.pusher }
+
+    it 'of owner objects' do
+      expect(subject).to be_an_instance_of(GitWebHookModel::Hook::Owner)
+    end
+  end
+
   describe '#repository' do
     subject { instance.repository }
 

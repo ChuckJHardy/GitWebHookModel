@@ -80,16 +80,16 @@ describe GitWebHookModel::Hook::Commit do
   describe '#author' do
     subject { instance.author }
 
-    it 'returns Author object' do
-      expect(subject).to be_an_instance_of(GitWebHookModel::Hook::Author)
+    it 'returns owner object' do
+      expect(subject).to be_an_instance_of(GitWebHookModel::Hook::Owner)
     end
   end
 
   describe '#committer' do
     subject { instance.committer }
 
-    it 'returns Author object' do
-      expect(subject).to be_an_instance_of(GitWebHookModel::Hook::Committer)
+    it 'returns owner object' do
+      expect(subject).to be_an_instance_of(GitWebHookModel::Hook::Owner)
     end
   end
 end

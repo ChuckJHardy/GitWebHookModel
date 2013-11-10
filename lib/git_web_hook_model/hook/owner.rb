@@ -7,6 +7,7 @@ class GitWebHookModel
 
       field :name
       field :email, optional: true
+      field :username, optional: true
     end
   end
 end
