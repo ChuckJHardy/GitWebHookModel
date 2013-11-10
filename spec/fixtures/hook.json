@@ -1,0 +1,99 @@
+{
+  "ref":"refs/heads/feature/ci",
+  "after":"38209a615b72728ef4f3160619c7c63c37b8994c",
+  "before":"0000000000000000000000000000000000000000",
+  "created":true,
+  "deleted":false,
+  "forced":true,
+  "compare":"https://github.company.com/organisation/otb_www_app/commit/38209a615b72",
+  "commits":[
+    {
+      "id":"38209a615b72728ef4f3160619c7c63c37b8994c",
+      "distinct":true,
+      "message":"Setup CI",
+      "timestamp":"2013-11-08T15:34:33+00:00",
+      "url":"https://github.company.com/organisation/otb_www_app/commit/38209a615b72728ef4f3160619c7c63c37b8994c",
+      "author":{
+        "name":"Chuck J hardy",
+        "email":"chuckjhardy@gmail.com",
+        "username":"charles-hardy"
+      },
+      "committer":{
+        "name":"Chuck J hardy",
+        "email":"chuckjhardy@gmail.com",
+        "username":"charles-hardy"
+      },
+      "added":[
+        "continuus_lenimentus.enc"
+      ],
+      "removed":[
+
+      ],
+      "modified":[
+        ".simplecov",
+        "Gemfile",
+        "Gemfile.lock",
+        "spec/spec_helper_lite.rb"
+      ]
+    }
+  ],
+  "head_commit":{
+    "id":"38209a615b72728ef4f3160619c7c63c37b8994c",
+    "distinct":true,
+    "message":"Setup CI",
+    "timestamp":"2013-11-08T15:34:33+00:00",
+    "url":"https://github.company.com/organisation/otb_www_app/commit/38209a615b72728ef4f3160619c7c63c37b8994c",
+    "author":{
+      "name":"Chuck J hardy",
+      "email":"chuckjhardy@gmail.com",
+      "username":"charles-hardy"
+    },
+    "committer":{
+      "name":"Chuck J hardy",
+      "email":"chuckjhardy@gmail.com",
+      "username":"charles-hardy"
+    },
+    "added":[
+      "continuus_lenimentus.enc"
+    ],
+    "removed":[
+
+    ],
+    "modified":[
+      ".simplecov",
+      "Gemfile",
+      "Gemfile.lock",
+      "spec/spec_helper_lite.rb"
+    ]
+  },
+  "repository":{
+    "id":72,
+    "name":"otb_www_app",
+    "url":"https://github.company.com/organisation/otb_www_app",
+    "description":"Frontend Application",
+    "homepage":"www.onthebeach.co.uk",
+    "watchers":1,
+    "stargazers":1,
+    "forks":0,
+    "fork":false,
+    "size":54414,
+    "owner":{
+      "name":"onthebeach",
+      "email":null
+    },
+    "private":false,
+    "open_issues":6,
+    "has_issues":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "language":"Ruby",
+    "created_at":1295946304,
+    "pushed_at":1383924957,
+    "master_branch":"master",
+    "organization":"onthebeach"
+  },
+  "pusher":{
+    "name":"charles-hardy",
+    "email":"chuckjhardy@gmail.com"
+  }
+}

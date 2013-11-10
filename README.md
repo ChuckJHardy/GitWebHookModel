@@ -1,12 +1,12 @@
 # GitWebHookModel
 
-TODO: Write a gem description
+Simple, immutable model for github webhooks.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'git_web_hook_model'
+    gem 'git_web_hook_model', '~> 0.0.1', group :development
 
 And then execute:
 
@@ -17,8 +17,14 @@ Or install it yourself as:
     $ gem install git_web_hook_model
 
 ## Usage
+    
+    GitWebHookModel.for("{}")
+    # => An Object
 
-TODO: Write usage instructions here
+## Requirements
+
+* ruby > 1.9.x
+* id > 0.1.x
 
 ## Contributing
 

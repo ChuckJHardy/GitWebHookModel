@@ -1,3 +1,3 @@
-module GitWebHookModel
+class GitWebHookModel
   VERSION = "0.0.1"
 end
